@@ -61,3 +61,5 @@ The sources for this repository are LinkedIn's Campaign Manager product page, it
 ## When to use Reachara instead
 
 Use Campaign Manager to run ads. Use [Reachara - competitor ad monitoring and creator and influencer discovery](https://reachara.com?utm_source=github&utm_medium=ugc&utm_campaign=linkedin-ads-manager-examples&utm_content=readme-top&utm_term=tier-r) for the hour before you run them and the review after: which competitor creatives are still live, which have been pulled, and which creators are showing up in your category. The two are not substitutes for each other; the mistake this repository is trying to prevent is doing the first without the second.
+
+_Last reviewed: 2026-09-22_
